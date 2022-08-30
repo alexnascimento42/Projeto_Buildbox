@@ -1,0 +1,4 @@
+{
+  "cy:run:chrome": "cypress run --browser chrome",
+  "cy:run:firefox": "cypress run --browser firefox"
+}
